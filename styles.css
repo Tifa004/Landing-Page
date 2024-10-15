@@ -8,7 +8,9 @@
     justify-content: center;
     align-items: center;
     padding: 20px 100px;
-    gap: 570px;
+    gap: 34%;
+    flex:auto;
+    max-width: 100%;
     
 }
 
@@ -19,11 +21,14 @@
 .links{
     display: flex;
     gap : 15px;
+    flex-grow: 1;
+    flex-shrink: 1;
     
 }
 
 .links a {
     color: #E5E7eb ;
+    white-space: nowrap;
 }
 
 a {
@@ -41,6 +46,7 @@ ul {
     font-size: 24px;
     color: #f9faf8;
     font-weight: bold;
+    white-space: nowrap;
 }
 
 .hero-main{
@@ -91,6 +97,7 @@ ul {
 .info img{
     height: 300px;
     width: auto;
+    max-width: 100%;
 }
 
 .cards {
@@ -98,6 +105,7 @@ ul {
     justify-content: center;
     gap: 80px;
     padding: 90px 0 90px 0 ;
+    flex: 1;
 }
 
 .title-mid {
@@ -147,7 +155,7 @@ ul {
     background-color: #3882f6;
     padding: 200px;
     gap: 100px;
-    width: 1200px;
+    max-width: fit-content;
     margin-left: auto;
     margin-right: auto;
     height: auto;
@@ -175,6 +183,7 @@ ul {
     border-radius: 50px;
     border-width: 5px;
     width: 200px;
+    white-space: nowrap;
 }
 .footer {
     height: 90px;
