@@ -142,6 +142,8 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex: auto;
+    flex-shrink: 5;
     background-color: #3882f6;
     padding: 200px;
     gap: 100px;
