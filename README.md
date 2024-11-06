@@ -4,10 +4,10 @@
 This project involves creating a fully responsive landing page based on a provided design, using only HTML and CSS. The design includes fonts, colors, and layout inspired by elements from Marvel Studios, making for a visually engaging, thematic webpage.
 
 ## Design Reference
-<div style="display: flex; justify-content: center; gap: "200px;">
+<p style="text-align: center;">
 <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png" alt="Landing Page Design" width="300">
 <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png" alt="Landing Page Fonts&Colors" width="300">
-</div>
+</p>
 ## Fonts and Colors Used
 The design utilizes specific fonts and color schemes to match the Marvel Studios theme.
 
