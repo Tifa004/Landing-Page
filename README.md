@@ -8,6 +8,7 @@ This project involves creating a fully responsive landing page based on a provid
 <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png" alt="Landing Page Design" width="300 style="margin-right: 20px;">
 <img src="https://cdn.statically.io/gh/TheOdinProject/curriculum/a38403e7d81cc8305af16ac48985cfbde87834d6/foundations/html_css/flexbox/project-landing-page/imgs/02.png" alt="Landing Page Fonts&Colors" width="300 style="margin-left: 20px;">
 </p>
+
 ## Fonts and Colors Used
 The design utilizes specific fonts and color schemes to match the Marvel Studios theme.
 
